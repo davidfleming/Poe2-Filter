@@ -519,11 +519,17 @@ ItemLevel >= 81
 BaseType "Chiming Staff"
 SetFontSize 35
 
+Hide
+Class "Quarterstaves"
+AreaLevel > 70
+ItemLevel >= 81
+
 # Wands and Staves
 Show
 Class "Wands" "Staves"
 AreaLevel > 70
 ItemLevel >= 81
+
 
 # Foci
 Show
